@@ -29,6 +29,7 @@
         return div;
 #### From ChaptGPT/Google: In order to create the legend you need to edit the style.css file.
  '.legend{}' Is the class sector, it selects the HTML elements htat have the class attribute set to 'legend'. 'background: rgba(250, 250, 250, .6);' makes the background of the legend white and alters the opacity.'.legend i {}' is specifying CSS styles for all <i> elements that are descendants of elements with the class .legend.
+ 
          .legend {
           line-height: 25px;
           color: #000000;
